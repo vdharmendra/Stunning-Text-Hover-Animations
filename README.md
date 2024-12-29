@@ -1,4 +1,4 @@
-# Textura | Stunning Text Hover Animations
+# GSAP MagicTextFX | Stunning Text Hover Animations
 
 <a href="https://www.linkedin.com/in/dharmendraverma95/" target="_blank">LinkedIn Profile </a>
 
@@ -21,10 +21,10 @@ Textura is a project that utilizes CSS text animations to elevate your website's
 # Preview
 
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/215678429/GSAP-MagicTextFX" target="_blank">
 <img style="width:350px;" src="./magicTextEffect.gif" alt="" /></a>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/215678429/GSAP-MagicTextFX" target="_blank">
 <img style="width:350px;" src="./magicTextEffect.png" alt="" /></a>
 <br />
 
